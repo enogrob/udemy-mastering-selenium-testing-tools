@@ -18,10 +18,10 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 4
 Setting Up the Work Environment
-[ ]1. The Course Overview 3:33
-[ ]2. Selenium Tools Suite 2:26
-[ ]3. Preparing Your Environment 5:39
-[ ]4. Inspecting the Web Elements 4:36
+[x]1. The Course Overview 3:33
+[x]2. Selenium Tools Suite 2:26
+[x]3. Preparing Your Environment 5:39
+[x]4. Inspecting the Web Elements 4:36
 
 Section: 2
 0 / 3
