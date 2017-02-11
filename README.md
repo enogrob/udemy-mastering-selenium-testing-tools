@@ -26,9 +26,9 @@ Setting Up the Work Environment
 Section: 2
 0 / 3
 Selenium IDE
-[ ] 5. A Quick Introduction to Selenium IDE 3:04
-[ ] 6. Putting the Selenium IDE to Use 3:29
-[ ] 7. Getting to Know the Selenium IDE Better 9:33
+[x] 5. A Quick Introduction to Selenium IDE 3:04
+[x] 6. Putting the Selenium IDE to Use 3:29
+[x] 7. Getting to Know the Selenium IDE Better 9:33
 
 Section: 3
 0 / 9
