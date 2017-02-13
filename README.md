@@ -33,7 +33,7 @@ Selenium IDE
 Section: 3
 0 / 9
 Selenium WebDriver
-[ ] 8. Introducing WebDriver 9:32
+[x] 8. Introducing WebDriver 9:32
 [ ] 9. Implementing Our First Example 9:07
 [ ] 10. WebDriver Capabilities 2:34
 [ ] 11. The WebDriver API 3:49
